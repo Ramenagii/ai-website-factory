@@ -70,34 +70,9 @@ button {
 .brand-logo {
   display: block;
   flex: 0 0 auto;
-  height: 44px;
+  height: 52px;
   object-fit: contain;
-  width: 44px;
-}
-
-.brand-copy {
-  display: grid;
-  gap: 3px;
-  min-width: 0;
-}
-
-.brand-copy strong,
-.brand-copy span {
-  display: block;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
-}
-
-.brand-copy strong {
-  font-size: 16px;
-  line-height: 1.08;
-}
-
-.brand-copy span {
-  color: var(--muted);
-  font-size: 15px;
-  line-height: 1.2;
+  width: 52px;
 }
 
 .brand span,

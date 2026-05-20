@@ -100,10 +100,6 @@ export function FactoryDashboard() {
             height={96}
             priority
           />
-          <div className="brand-copy">
-            <strong>AI Website Factory</strong>
-            <span>Automated website production pipeline</span>
-          </div>
         </div>
         <div className="status-pill">
           <Activity size={16} />

@@ -15,7 +15,6 @@
       <stop offset="1" stop-color="#00322F"/>
     </linearGradient>
   </defs>
-  <rect width="96" height="96" rx="22" fill="#18C9B4"/>
   <path d="M32.5 48L35.5 17.5C36 14.8 38.2 13 41 13H43.6C46.4 13 48.7 14.8 49.1 17.6L53 48H32.5Z" fill="url(#stack)"/>
   <ellipse cx="42.8" cy="18" rx="12.8" ry="4" fill="#012F2D"/>
   <ellipse cx="42.8" cy="19.4" rx="10.4" ry="2.3" fill="#37D7C7"/>
