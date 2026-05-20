@@ -6,7 +6,6 @@ import {
   Blocks,
   CheckCircle2,
   ClipboardList,
-  Factory,
   FileCode2,
   Gauge,
   Loader2,
@@ -92,8 +91,13 @@ export function FactoryDashboard() {
     <main className="app-shell">
       <header className="topbar">
         <div className="brand">
-          <span className="brand-mark">
-            <Factory size={22} />
+          <span className="brand-mark" aria-hidden="true">
+            <span className="logo-glyph">
+              <span className="logo-bar" />
+              <span className="logo-bar" />
+              <span className="logo-bar" />
+              <span className="logo-spark" />
+            </span>
           </span>
           <div>
             <strong>AI Website Factory</strong>
