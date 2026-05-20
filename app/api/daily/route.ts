@@ -1,6 +1,8 @@
 import { NextResponse } from "next/server";
 import { runFactory } from "@/lib/pipeline";
 
+export const runtime = "nodejs";
+
 const trendQueue = [
   {
     url: "https://linear.app",
