@@ -94,12 +94,16 @@ export function FactoryDashboard() {
         <div className="brand">
           <Image
             className="brand-logo"
-            src="/ai-website-factory-logo.svg"
-            alt="AI Website Factory - Automated website production pipeline"
-            width={760}
-            height={230}
+            src="/ai-website-factory-mark.svg"
+            alt="AI Website Factory"
+            width={96}
+            height={96}
             priority
           />
+          <div className="brand-copy">
+            <strong>AI Website Factory</strong>
+            <span>Automated website production pipeline</span>
+          </div>
         </div>
         <div className="status-pill">
           <Activity size={16} />

@@ -1,0 +1,36 @@
+<svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">AI Website Factory mark</title>
+  <desc id="desc">A compact teal factory mark with a chimney and smoke.</desc>
+  <defs>
+    <linearGradient id="front" x1="36" y1="24" x2="82" y2="78" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#27D8C4"/>
+      <stop offset="1" stop-color="#0AA68F"/>
+    </linearGradient>
+    <linearGradient id="side" x1="16" y1="41" x2="39" y2="79" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B9C8B"/>
+      <stop offset="1" stop-color="#00534A"/>
+    </linearGradient>
+    <linearGradient id="stack" x1="32" y1="10" x2="43" y2="51" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#02796F"/>
+      <stop offset="1" stop-color="#00322F"/>
+    </linearGradient>
+  </defs>
+  <rect width="96" height="96" rx="22" fill="#18C9B4"/>
+  <path d="M32.5 48L35.5 17.5C36 14.8 38.2 13 41 13H43.6C46.4 13 48.7 14.8 49.1 17.6L53 48H32.5Z" fill="url(#stack)"/>
+  <ellipse cx="42.8" cy="18" rx="12.8" ry="4" fill="#012F2D"/>
+  <ellipse cx="42.8" cy="19.4" rx="10.4" ry="2.3" fill="#37D7C7"/>
+  <circle cx="45.5" cy="7.5" r="8.8" fill="#B7E9E2"/>
+  <circle cx="57" cy="8" r="10.5" fill="#A9E2DA"/>
+  <circle cx="68" cy="3.8" r="8.5" fill="#A9E2DA"/>
+  <circle cx="55" cy="20" r="9.6" fill="#A9E2DA"/>
+  <path d="M16 51.5L45.5 33.8C48.8 31.8 53 34.2 53 38.1V82H16V51.5Z" fill="url(#side)"/>
+  <path d="M16 51.5L53 38.1V47L16 61V51.5Z" fill="#10B6A5"/>
+  <path d="M39 45.2L61.8 31.5C65.1 29.5 69.2 31.9 69.2 35.8V48.7C69.2 52.2 72.9 54.5 76 52.9L80 50.8V82H39V45.2Z" fill="url(#front)"/>
+  <path d="M80 50.8L85.6 53.9C88.3 55.4 90 58.2 90 61.2V82H80V50.8Z" fill="#0A9985"/>
+  <path d="M80 50.8L85.6 53.9V63.5C85.6 67 89.4 69.2 92.4 67.4L90 69V61.2C90 58.2 88.3 55.4 85.6 53.9L80 50.8Z" fill="#FFC331"/>
+  <rect x="51.5" y="58" width="8.9" height="9.6" rx="1.8" fill="#003E39"/>
+  <rect x="64" y="59.5" width="8.4" height="8.9" rx="1.8" fill="#003E39"/>
+  <path d="M22 65.5L34.8 62.6C36.7 62.2 38.5 63.6 38.5 65.5V82H22V65.5Z" fill="#003E39"/>
+  <path d="M25 69.5L38.5 66.5" stroke="#0D7A6F" stroke-width="3.2"/>
+  <path d="M25 75L38.5 72" stroke="#0D7A6F" stroke-width="3.2"/>
+</svg>
