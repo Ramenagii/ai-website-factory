@@ -13,6 +13,7 @@ import {
   Rocket,
   Search
 } from "lucide-react";
+import Image from "next/image";
 import { useMemo, useState } from "react";
 import type { FactoryRun } from "@/lib/types";
 
@@ -91,18 +92,14 @@ export function FactoryDashboard() {
     <main className="app-shell">
       <header className="topbar">
         <div className="brand">
-          <span className="brand-mark" aria-hidden="true">
-            <span className="logo-glyph">
-              <span className="logo-bar" />
-              <span className="logo-bar" />
-              <span className="logo-bar" />
-              <span className="logo-spark" />
-            </span>
-          </span>
-          <div>
-            <strong>AI Website Factory</strong>
-            <span>Automated website production pipeline</span>
-          </div>
+          <Image
+            className="brand-logo"
+            src="/ai-website-factory-logo.svg"
+            alt="AI Website Factory - Automated website production pipeline"
+            width={760}
+            height={230}
+            priority
+          />
         </div>
         <div className="status-pill">
           <Activity size={16} />
